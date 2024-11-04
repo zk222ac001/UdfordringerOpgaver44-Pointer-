@@ -24,7 +24,7 @@
     <ProjectGuid>{d48d9a68-6778-4eb1-994c-d93223336417}</ProjectGuid>
     <RootNamespace>UdfordringerOpgaver44Pointer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Opgaver1</ProjectName>
+    <ProjectName>Opgaverno1</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
